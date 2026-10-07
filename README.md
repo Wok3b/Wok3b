@@ -3,10 +3,15 @@
 Applied Software Engineering student at FTN Novi Sad, Serbia. I like taking systems apart to see how they
 work, then setting them up properly: routers, Linux machines, firmware, and the scripts that hold it all together.
 
-Currently looking for an **IT support / junior system administrator** role (remote or Novi Sad).
+Currently looking for a **junior .NET developer** or **IT support** role (Novi Sad or remote).
 
 ### Projects
 
+- **[helpdesk](https://github.com/Wok3b/helpdesk)**: IT ticketing system. ASP.NET Core 10 API with EF Core and
+  SQL Server, JWT roles, an SLA-driven ticket workflow and SQL reporting; Angular 21 + PrimeNG frontend;
+  41 tests including integration tests against a real SQL Server, Docker and CI.
+- **[ufckartebeograd.com](https://ufckartebeograd.com)**: client project. Next.js, TypeScript and Prisma site with an
+  interactive arena map and an admin panel for managing tickets.
 - **[openwrt-secure-gateway](https://github.com/Wok3b/openwrt-secure-gateway)**: home router config with four
   isolated VLANs, default-deny firewall, encrypted DNS that can't be bypassed, and WireGuard. One idempotent
   script, tested on real OpenWrt in Docker, plus a Python toolkit for serial console access and verified firmware backups.
@@ -19,7 +24,8 @@ Currently looking for an **IT support / junior system administrator** role (remo
 
 - **Networking:** TCP/IP, DNS, DHCP, VLANs, nftables, WireGuard, Tailscale, SSH
 - **Systems:** Windows 10/11, Arch Linux, OpenWrt, Armbian, Docker
-- **Code:** Python, C/C++, JavaScript/TypeScript, Bash, PowerShell, Git
+- **Code:** C#, TypeScript/JavaScript, SQL, Python, Java, C/C++, Bash, PowerShell
+- **Frameworks:** ASP.NET Core, Entity Framework Core, Angular, React, Next.js
 
 ### Contact
 
