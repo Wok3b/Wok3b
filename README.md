@@ -12,6 +12,9 @@ Currently looking for a **junior .NET developer** or **IT support** role (Novi S
   41 tests including integration tests against a real SQL Server, Docker and CI.
 - **[ufckartebeograd.com](https://ufckartebeograd.com)**: client project. Next.js, TypeScript and Prisma site with an
   interactive arena map and an admin panel for managing tickets.
+- **[moe-stream](https://github.com/Wok3b/moe-stream)**: running Mixture-of-Experts AI models that don't fit in RAM on a
+  16 GB laptop. An explicit expert cache in C++ (1.4-1.6x faster than the OS page cache) and a bundled on-disk layout
+  with one read per expert (another 1.5-1.6x), with a [write-up](https://github.com/Wok3b/moe-stream/blob/master/docs/streaming-moe-on-a-laptop.md) of how it was measured.
 - **[openwrt-secure-gateway](https://github.com/Wok3b/openwrt-secure-gateway)**: home router config with four
   isolated VLANs, default-deny firewall, encrypted DNS that can't be bypassed, and WireGuard. One idempotent
   script, tested on real OpenWrt in Docker, plus a Python toolkit for serial console access and verified firmware backups.
